@@ -1,6 +1,4 @@
 ---
 layout: home
-title: Welcome to My Blog
+title: Leonardo Luchini
 ---
-
-Hello! This is my new blog hosted on GitHub Pages.
